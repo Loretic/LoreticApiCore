@@ -1,1 +1,1 @@
-# testSokarionGit
+# LoreticApiCore
